@@ -386,7 +386,8 @@ input {
     padding: 20px 0;
     background-color: #000;
 }
-.footer h4 {
+.footer h2 {
+    font-size: 20px;
     letter-spacing: 2px;
 }
 .social-f i {
